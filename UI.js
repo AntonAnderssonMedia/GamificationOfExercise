@@ -1,7 +1,7 @@
 import React from 'react';
 import { Text, View } from 'react-native';
 
-const MainApp = () => {
+const MainUI = () => {
   return (
     <View style={{
         flex: 1,
@@ -13,4 +13,4 @@ const MainApp = () => {
   );
 }
 
-export default MainApp;
+export default MainUI;
